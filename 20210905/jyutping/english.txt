@@ -1,660 +1,741 @@
-426     sei3 ji6 luk6
-438     sei3 saam1 baat3
-4424    sei3 sei3 ji6 sei3
-56k     ng5 aa6 luk6 kei1
-55      ng5 ng5
-56k     ng5 sap6 luk6 kei1
-67      luk1 cat6
-689     luk6 baat3 gau2
-777     cat1 cat1 cat1
-9upper  gau1 ap1 paa4
-97      gau2 cat1
-argue   aa1 giu4
-ARCH    aa1 ki2
-archi   aa1 ki2
-assignment      aa3 saai1 man2
-assignment      aa3 saai1 man4
-account aa6 kaan1
-ARCH    aak1 ki2
-archi   aak1 ki2
-auntie  aan1 ti4
-Audi    aau1 di2
-am      am4
-ABC     ei1 bi1 si1
-AK      ei1 kei1
-AK47    ei1 kei1 sei3 cat1
-A0      ei1 ling4
-AO      ei1 ou1
-ac      ei1 si1
-ACO     ei1 si1 ou1
-ace     ei1 si2
-ATM     ei1 ti1 em1
-AV      ei1 vi1
-AV      ei1 wi1
-agent   ei1 zeon2
-anyway  en1 ni4 wei4
-app     ep1
-apps    ep1 si2
-alt     o6 toeng1 nik4
-alt     ot1
-bar     baa1
-bra     baa1
-barcode baa1 kuk1
-buy     baai1
-bi      baai6
-bio     baai6 o1
-byte    bai1
-bug     bak1
-budget  bat1 zik4
-baby    bei1 bi4
-backup  bek1 ap1
-ban     ben1
-banner  ben1 naa2
-Benz    ben1 si2
-ban     beng1
-BB      bi1 bi1
-BBA     bi1 bi1 ei1
-BBQ     bi1 bi1 kiu1
-bibu    bi1 bu3
-bibu    bi1 bu6
-briefing        bi1 fing2
-bilibili        bi1 li1 bi1 li4
-BT      bi1 ti1
-BB      bi4 bi1
-bingo   bing1 gou4
-beat    bit1
-bid     bit1
-bit     bit1
-BB      bit1 bit1
-ball    bo1
-boy     boi1
-board   bot1
-buffet  bou6 fei1
-bully   bu1 li4
-book    buk1
-boot    but1
-buffet  pou6 fei1
-boutique        pou6 tit1
-charge  caa1 zi6
-check   cek1
-challenge       cek1 lin6 zi6
-CLS     ci1 lan2 sin3
-chihuahua       ci6 waa1 waa4
-ching   cing1
-cheap   cip1
-cosplay co1 si4 pat6 lai1
-chur    coe2
-chok    cok3
-camtrulia       gaam6 cou1 li4 jaa4
-coolie  gu1 lei1
-counter kaan1 taa2
-com     kam1
-comment kam1 men4
-camtrulia       kam6 cou1 li4 jaa4
-command kam6 maan1
-club    kap1
-cut     kat1
-cutter  kat1 taa2
-cafe    kat6 fei1
-close   kat6 lou4 si4
-cult    kau1
-care    ke1 aa4
-casual  ke1 sou4
-cash    ke1 syu4
-carry   ke1 wi4
-case    kei1 si2
-cam     kem1
-camp    kem1
-chem    kem1
-claim   kem1
-CRE     si1 aau1 ji1
-cancer  ken1 saa2
-cancer  ken1 saa4
-cap     kep1
-cap     kep6
-catalog ket1 taa4 lok4
-catalogue       ket1 taa4 lok4
-cake    kik1
-click   kik1
-cream   kim1
-cue     kiu1
-cute    kiu1
-coupon  kiu1 pon4
-cutie   kiu1 ti2
-Call    ko1
-call    ko1
-course  ko1 si4
-comment kom1 men4
-con     kon1
-cons    kon1 si2
-contact kon1 tek4
-cop     kop1
-chord   kot1
-Cool    ku1
-cool    ku1
-cushion ku1 seon2
-code    kuk1
-cyber   saai1 baa4
-CIB     si1 aai1 bi1
-CID     si1 aai1 di1
-cm      si1 em1
-CLS     si1 eu1 e1 si4
-civil   si1 fou2
-ching   si1 hing1
-C6      si1 luk6
-C9      si1 naai1
-cc      si1 si1
-CCTV    si1 si1 ti1 wi1
-CV      si1 wi1
-cert    soet1
-chihuahua       zi6 waa1 waa4
-darling daa1 ling2
-down    daan1
-download        daan1 lou1
-down    daang1
-download        daang1 lou1
-dup     daap3
-dum     dam2
-dump    dam2
-dum     dam3
-dum     dam6
-dub     dap1
-dup     dap1
-dud     dat1
-der     de1
-defer   de6 foe1
-data    dei1 taa4
-dem     dem1
-demo    dem1 mou2
-D       di1
-DD      di1 di1
-DNA     di1 en1 ei1
-DQ      di1 kiu1
-DC9     di1 si1 gau2
-DT      di1 ti1
-DVD     di1 wi1 di1
-DJ      di1 zei1
-Dee     di2
-del     di6
-DD      dit1 dit1
-disco   dit1 si4 kou4
-dur     doe6
-Do      du1
-do      du1
-e       e1
-e1      e1
-er      e1
-e4      e4
-er      e4
-er      e6
-em4     em4
-engine  en1 zin2
-even    i1 fan4
-emoji   i6 mo1 zi4
-emoji   i6 mou1 zi4
-ex      ik6 si4
-even    ji1 fan4
-email   ji1 me1 lou4
-email   ji1 meu1
-EO      ji1 ou1
-econ    ji6 kon1
-emoji   ji6 mo1 zi4
-emoji   ji6 mou1 zi4
-exact7ly        ik6 sek1 cat4 li4
-FF      e1 fu4 e1 fu4
-file    faai1 lou2
-function        fan1 seon4
-function        fang1 seon4
-fang6   fang6
-foul    fau1
-fe      fe4
-fea     fe4
-Face    fei1 si2
-fax     fek1
-fax     fek1 si2
-firm    fem1
-Friend  fen1
-fd      fen1
-friend  fen1
-fans    fen1 si2
-fet     fet6
-fail    feu1
-fake    fik1
-figure  fik1 gaa4
-Fik     fik6
-flick   fik6
-Fing    fing6
-fit     fit1
-Feel    fiu1
-feel    fiu1
-fuse    fiu1 si2
-follow  fo1 lou4
-for     fo6
-form    fom1
-fu      fu3
-gap     gap1
-gup     gap6
-gas     ge1 si2
-ge      ge3
-gag     gek1
-game    gem1
-gap     gep1
-get     get1
-GB      gik1
-GiB     gik1
-gip     gip1
-Gurkha  goe1 gaa4
-gur     goe4
-google  gu1 gou4
-gram    gwem1
-group   gwup1
-gel     zeu1
-GPS     zi1 pi1 e1 si4
-GG      zi1 zi1
-geog    zok1 gaa2
-hello   haa1 lou2
-hello   haa1 lou3
-High    haai1
-hi      haai1
-high    haai1
-hihi    haai1 haai1
-highlight       haai1 lai1
-harddisk        haat1 di1
-house   hau1 si2
-He      he3
-hae     he3
-hea     he3
-hater   hei1 taa4
-hack    hek1
-hacker  hek1 kaa2
-ham     hem1
-Happy   hep1 pi2
-happy   hep1 pi2
-hehe    hi1 hi1
-hints   hin1 si2
-hit     hit1
-hall    ho1
-hur     hoe4
-hurt    hoet1
-hoodie  hu1 di2
-II      aai1 aai1
-ID      aai1 di1
-IDD     aai1 di1 di1
-IQ      aai1 kiu1
-icon    aai1 kon2
-IP      aai1 pi1
-IT      aai1 ti1
-idea    aai6 di1 aa4
-idea    aai6 di1 jaa4
-In      in1
-in      in1
-Inc     in1 cu4
-Inch    in1 cyu4
-intern  in1 toeng2
-ichiban it1 ci1 baan1
-ichiban ji1 ci1 baang1
-Isuzu   ji6 sou1 sou4
-in      jin1
-intern  jin1 toeng2
-ichiban jit1 ci1 baan1
-ichiban jit1 zi1 baan1
-jar     zaa1
-J       zei1
-JJ      zei1 zei1
-jacket  zek1 ket6
-jacket  zek1 kit6
-jetso   zek1 sou4
-jam     zem1
-jip     zip4
-jer     zoe1
-join    zoi1
-join    zong1
-joule   zu1
-jupas   zu1 pat6 si4
-joker   zuk1 kaa2
-Kind    kaai1
-kai     kaai1
-Ke      ke1
-ke      ke1
-K       kei1
-KB      kei1 bi1
-kilo    kei1 lou2
-KO      kei1 ou1
-KOL     kei1 ou1 eu1
-kem     kem4
-kem5    kem5
-keng    keng4
-kilo    ki1 lou2
-king    king1
-keep    kip1
-Keeper  kip1 paa2
-killer  kiu1 laa2
-killer  kiu1 laa4
-L       eu1
-live    laai1
-license laai1 san2
-latte   laat6 tei1
-Like    lai1
-Like    lai1 ki2
-likey   lai1 ki2
-lunch   lan1 cyu2
-lunch   lan1 cyu4
-latte   lat6 tei1
-LM      lau4 ming4
-le      le1
-level   le1 fou2
-lego    le1 gou4
-les     le1 si4
-label   lei1 bou2
-laser   lei1 saa2
-lego    lek1 gou4
-lem     lem2
-lun     leon1
-lab     lep1
-legging lik1 ging4
-lim     lim1
-limit   lim1 mit4
-lin     lin1
-lur     loe2
-load    lou1
-louvre  lu1 faa2
-lu      lu3
-look    luk1
-lin     nin1
-M       em1
-MB      em1 bi1
-MBA     em1 bi1 ei1
-MK      em1 kei1
-mp3     em1 pi1 fi1
-mp3     em1 pi1 saam1
-MV      em1 wi1
-Mind    maai1
-mind    maai1
-mark    maak1
-mouse   maau1 si2
-mouse   mau1 si2
-MB      mek1
-MiB     mek1
-man     men1
-menu    men1 niu2
-MB      mep1
-MiB     mep1
-maths   met1 si2
-memo    mi1 mou2
-miss    mi1 si4
-m       mit1
-meet    mit1
-Miss    mit1 si4
-Missy   mit1 si4
-ml      miu1
-model   mo1 dou4
-mock    mok1
-mocha   mok1 kaa4
-mon     mon1
-modem   mou1 dem4
-molamola        mou1 laa1 mou1 laa4
-molamola        mou1 laa3 mou1 laa3
-Mood    mut1
-mood    mut1
-N       en1
-NG      en1 zi1
-notebook        luk1 buk1
-NICAM   nai1 kem4
-navy    nei1 fi2
-niu     niu3
-notebook        nuk1 buk1
-out     au1
-outdate au1 dei1
-outday  au1 dei1
-outlet  au1 let4
-on9     ngong6 gau1
-on99    ngong6 gau1 gau1
-onlun9  ngong6 lan2 gau1
-offer   o1 faa4
-OK      o1 ke1
-oe      oe1
-oet4    oek4
-oet4    oet4
-oet4    oet6
-oppa    ok6 baa1
-OL      ou1 e1 lou4
-OL      ou1 eu1
-over    ou1 faa4
-OEM     ou1 ji1 em1
-OK      ou1 kei1
-ocamp   ou1 kem1
-open    ou1 pan4
-OP      ou1 pi1
-OT      ou1 ti1
-physics fi1 sik4
-pass    paa1 si2
-pass    paa1 si4
-passport        paa1 si4 pot1
-party   paa1 ti4
-passport        paa3 si6 but3
-Parkour paa6 ku1 aa4
-pi      paai1
-part    paat1
-partner paat1 naa4
-party   paat1 ti4
-parti   paat6 tit1
-pub     pap1
-puzzle  pat1 sou4
-plan    pat6 len1
-percent pat6 sen1
-pair    pe1
-pedal   pe1 dou4
-pea     pe5
-prefer  pe6 foe1
-paper   pei1 paa4
-patient pei1 seon4
-pack    pek1
-pan     pen1
-pantry  pen1 cyu4
-pancake pen1 kik1
-pad     pet1
-pedal   pet1 dou4
-Petpet  pet1 pet1
-pat     pet6
-P       pi1
-PR      pi1 aa1
-PR      pi1 aa1 lou4
-pm      pi1 em1
-prefect pi1 fek4
-prefect pi1 fet4
-PE      pi1 ji1
-PK      pi1 kei1
-pizza   pi1 saa2
-pizza   pi1 saa4
-PC      pi1 si1
-ptbf    pi1 ti1 bi1 e1 fu4
-PTU     pi1 ti1 jiu1
-ptgf    pi1 ti1 zi1 e1 fu4
-PG      pi1 zi1
-PG      pi1 zyu1
-prefer  pi6 foe1
-present pi6 sen1
-print   pin1
-printer pin1 taa2
-pink    ping1
-pure    piu1
-pure    piu1 aa4
-project po1 zek4
-percent poe6 sen1
-pok     pok1
-pop     pok1
-point   pon1
-port    pot1
-po      pou1
-post    pou1
-professor       pou1 fe1 saa2
-professor       pou1 fe1 saa4
-professor       pou1 fet1 saa2
-professor       pou1 fet1 saa4
-program pou1 gwem4
-polo    pou1 lou2
-post    pou1 si2
-promo   pou6 mou1
-proposal        pou6 pou1 sou4
-projector       pou6 zek1 taa2
-projector       pou6 zek1 taa4
-Push    pu1 syu4
-psycho  saai6 ko1
-Q       kiu1
-QQ      kiu1 kiu1
-QC      kiu1 si1
-Quali   ko1 li2
-quali   ko1 li2
-quota   kou1 taa2
-quiz    kwi1 zi4
-quit    kwit1
-quali   kwo1 li2
-R       aau1
-round   waan1
-router  waau1 taa2
-RAM     wem1
-refer   wi6 foe1
-sis     e1 si4 aai1 e1 si4
-so9sad  sou1 gau1 set1
-spa     sa4 baa1
-style   sa4 daai1 jou4
-stat    sa4 dei1
-stupid  sa4 diu1 bat4
-sa      saa4
-scan    saa4 ken1
-scanner saa4 ken1 naa2
-science saai1 jan4 si4
-size    saai1 si2
-saak    saak3
-sharp   saap1
-site    sai1
-suppose sap6 pou1 si4
-surprise        sat6 paai1 si4
-Seven   se1 fan2
-Seven   se1 wan2
-save    sei1 fu4
-sem     sem6
-send    sen1
-sense   sen1 si2
-set     set1
-sell    seu1
-sales   seu1 si2
-shift   si1 fu4
-syllabus        si1 li4 baa4
-stupid  si6 diu1 bat4
-snooker si6 luk1 gaa2
-sweet   si6 wit1
-saxphone        sik1 fung1
-saxophone       sik1 si6 fung1
-single  sing1 gou4
-seed    sit1
-sit     sit1
-sor     so1
-sorli   so1 li4
-sorry   so1 li4
-source  so1 si2
-sorry   so1 wi4
-ser     soe1
-share   soe1 aa4
-search  soe1 cyu4
-server  soe1 faa2
-survey  soe1 fei4
-sir     soe4
-survey  soe6 fei1
-sauna   son1 naa4
-short   sot1
-shot    sot1
-show    sou1
-souven  sou1 fan2
-solo    sou1 lou4
-sosad   sou1 set1
-social  sou1 sou4
-so      sou4
-soci    sou6 si6
-sure    su1 aa4
-troll   cou1
-target  taa1 get4
-title   taai1 tou4
-title   tai1 tou4
-taste   tei1 si2
-tag     tek1
-term    tem1
-temp    tem6
-tab     tep1
-tablet  tep1 lat4
-tablet  tep1 let4
-test    tet1
-T       ti1
-tea     ti1
-tee     ti1
-TB      ti1 bi1
-TA      ti1 ei1
-tissue  ti1 su4
-take    tik1
-team    tim1
-tutor   tiu1 taa2
-tutor   tiu1 taa4
-tutor   tiu6 to1
-toffee  to1 fei2
-toffee  to1 fei4
-toilet  to1 let4
-turn    toeng1
-toilet  toi1 let4
-talk    tok1
-top     top1
-total   tou1 tou4
-tune    tun1
-under   an1 daa2
-under   an1 daa4
-uncl    an1 kou4
-un      an3
-uncle   ang1 kou4
-up      ap1
-update  ap1 dei1
-upload  ap1 lou1
-UFO     ju1 e1 fou1
-UFO     ju1 e1 fu4 ou1
-USB     ju1 e1 si4 bi1
-UNO     ju1 en1 ou1
-UNO     ju1 nou2
-vaseline        faa1 si6 ling2
-vocab   fou6 kep1
-van     wen1
-VR      wi1 aau1
-VR      wi1 aau1 lou4
-VCD     wi1 si1 di1
-volt    wuk1
-vodka   wuk1 kaa2
-wasabi  waa6 saa1 bi4
-wifi    waai1 faai1
-wasabi  waat6 saa1 bi4
-wang    wang1
-weng    weng6
-Wet     wet1
-wet     wet1
-WeWeWetWet      wi1 wi1 wet1 wet1
-WP      win1 pei1
-wing    wing1
-work    woek1
-watt    wok1
-wou     wou1
-wouwou  wou1 wou1
-wowo    wou1 wou1
-XO      ik1 ou1
-X       ik1 si4
-young   jaang1
-Yap     jaap3
-yap     jaap3
-yap     jaap6
-yeah    je1
-Yen     jen1
-Yeast   jit1 si2
-Yo      jo3
-yo      jou1
-YouTube ju1 tup1
-YouTuber        ju1 tup1 baa4
-Y       waai1
-Z       ji6 set1
-Z       set1
-zoom    sum1
-zip     zip4
+133	jat1 saam1 saam1
+26	ji6 luk1
+3C	saam1 si1
+3P	saam1 pi1
+420	sei3 ji6 ling4
+426	sei3 ji6 luk6
+438	sei3 saam1 baat3
+4424	sei3 sei3 ji6 sei3
+46709394	sei2 lou2 ceot1 lai4 gaau2 saam1 gaau2 sei3
+489	sei3 baat3 gau2
+55	ng5 ng5
+56k	ng5 aa6 luk6 kei1
+56k	ng5 sap6 luk6 kei1
+67	luk1 cat6
+689	luk6 baat3 gau2
+7-11	cat1 sap6 jat1
+777	cat1 cat1 cat1
+97	gau2 cat1
+9upper	gau1 ap1 paa4
+A-math	ei1 met1
+A0	ei1 ling4
+ABC	ei1 bi1 si1
+ACO	ei1 si1 ou1
+AK	ei1 kei1
+AK47	ei1 kei1 sei3 cat1
+AO	ei1 ou1
+ARCH	aa1 ki2
+ARCH	aak1 ki2
+ATM	ei1 ti1 em1
+AV	ei1 vi1
+AV	ei1 wi1
+Audi	aau1 di2
+BB	bi1 bi1
+BB	bi4 bi1
+BB	bit1 bit1
+BBA	bi1 bi1 ei1
+BBQ	bi1 bi1 kiu1
+BT	bi1 ti1
+Benz	ben1 si2
+Big-4	bik1 fo1
+Bing-Ling-Bang-Lang	bing4 ling1 baang4 laang4
+Board-game	bot1 gem1
+C6	si1 luk6
+C9	si1 naai1
+CCTV	si1 si1 ti1 wi1
+CIB	si1 aai1 bi1
+CID	si1 aai1 di1
+CLS	ci1 lan2 sin3
+CLS	si1 eu1 e1 si4
+CRE	si1 aau1 ji1
+CV	si1 wi1
+Call	ko1
+Cool	ku1
+D	di1
+DC9	di1 si1 gau2
+DD	di1 di1
+DD	dit1 dit1
+DJ	di1 zei1
+DNA	di1 en1 ei1
+DQ	di1 kiu1
+DT	di1 ti1
+DVD	di1 wi1 di1
+Dee	di2
+Do	du1
+EO	ji1 ou1
+FF	e1 fu4 e1 fu4
+Face	fei1 si2
+Fact-check	fek1 cek1
+Feel	fiu1
+Fi-li-fe-le	fi4 li1 fe4 le4
+Fik	fik6
+Fing	fing6
+Friend	fen1
+GB	gik1
+GG	zi1 zi1
+GPS	zi1 pi1 e1 si4
+GiB	gik1
+Gurkha	goe1 gaa4
+Happy	hep1 pi2
+He	he3
+High	haai1
+ID	aai1 di1
+IDD	aai1 di1 di1
+II	aai1 aai1
+IP	aai1 pi1
+IQ	aai1 kiu1
+IT	aai1 ti1
+In	in1
+Inc	in1 cu4
+Inch	in1 cyu4
+Isuzu	ji6 sou1 sou4
+J	zei1
+JJ	zei1 zei1
+K	kei1
+K-car	kei1 kaa1
+KB	kei1 bi1
+KO	kei1 ou1
+KOL	kei1 ou1 eu1
+Ke	ke1
+Keeper	kip1 paa2
+Kind	kaai1
+L	eu1
+LM	lau4 ming4
+Le-fe	le5 fe5
+Le-hea	le2 he3
+Like	lai1
+Like	lai1 ki2
+M	em1
+M-come	em1 kam1
+MB	em1 bi1
+MB	mek1
+MB	mep1
+MBA	em1 bi1 ei1
+MK	em1 kei1
+MV	em1 wi1
+MiB	mek1
+MiB	mep1
+Mind	maai1
+Miss	mit1 si4
+Missy	mit1 si4
+Mood	mut1
+N	en1
+NG	en1 zi1
+NICAM	nai1 kem4
+No-1	lam1 baa1 wan1
+OEM	ou1 ji1 em1
+OK	o1 ke1
+OK	ou1 kei1
+OL	ou1 e1 lou4
+OL	ou1 eu1
+OP	ou1 pi1
+OT	ou1 ti1
+P	pi1
+PC	pi1 si1
+PE	pi1 ji1
+PG	pi1 zi1
+PG	pi1 zyu1
+PK	pi1 kei1
+PR	pi1 aa1
+PR	pi1 aa1 lou4
+PTU	pi1 ti1 jiu1
+Parkour	paa6 ku1 aa4
+Petpet	pet1 pet1
+Push	pu1 syu4
+Q	kiu1
+QC	kiu1 si1
+QQ	kiu1 kiu1
+QR-code	kiu1 aau1 kuk1
+Quali	ko1 li2
+R	aau1
+RAM	wem1
+Seven	se1 fan2
+Seven	se1 wan2
+So-so	sou1 sou4
+T	ti1
+T-back	ti1 bek1
+TA	ti1 ei1
+TB	ti1 bi1
+UFO	ju1 e1 fou1
+UFO	ju1 e1 fu4 ou1
+UNO	ju1 en1 ou1
+UNO	ju1 nou2
+USB	ju1 e1 si4 bi1
+VCD	wi1 si1 di1
+VR	wi1 aau1
+VR	wi1 aau1 lou4
+WP	win1 pei1
+We-We-Wet-Wet	wi1 wi1 wet1 wet1
+WeWeWetWet	wi1 wi1 wet1 wet1
+Wet	wet1
+X	ik1 si4
+XO	ik1 ou1
+Y	waai1
+Yap	jaap3
+Yeast	jit1 si2
+Yen	jen1
+Yo	jo3
+YouTube	ju1 tup1
+YouTuber	ju1 tup1 baa4
+Z	ji6 set1
+Z	set1
+ac	ei1 si1
+account	aa6 kaan1
+ace	ei1 si2
+agent	ei1 zeon2
+all-back	o1 bek1
+alt	o6 toeng1 nik4
+alt	ot1
+am	am4
+anyway	en1 ni4 wei4
+app	ep1
+apps	ep1 si2
+archi	aa1 ki2
+archi	aak1 ki2
+argue	aa1 giu4
+assignment	aa3 saai1 man2
+assignment	aa3 saai1 man4
+auntie	aan1 ti4
+baby	bei1 bi4
+baby-fat	bei1 bi1 fet1
+backup	bek1 ap1
+ball	bo1
+ban	ben1
+ban	beng1
+banner	ben1 naa2
+bar	baa1
+bar-king	baa1 king1
+barcode	baa1 kuk1
+beat	bit1
+bet-bet	bet4 bet4
+bet-bet	bet6 bet6
+bi	baai6
+bi-bi-ba-ba	bi1 bi1 baa1 baa1
+bi-bi-ba-ba	bi4 bi1 baa4 baa4
+bi-bi-ba-ba	bi4 bi4 baa4 baa4
+bi-li-ba-la	bi1 li1 baa1 laa1
+bi-li-ba-la	bi4 li1 baa4 laa4
+bi-li-ba-la	bi4 li4 baa4 laa4
+bi-li-bek-lek	bi4 li1 bek4 lek4
+bibu	bi1 bu3
+bibu	bi1 bu6
+bibu-bibu	bi1 bu3 bi1 bu3
+bibu-bibu	bi1 bu6 bi1 bu6
+bid	bit1
+bilibili	bi1 li1 bi1 li4
+bingo	bing1 gou4
+bio	baai6 o1
+bit	bit1
+board	bot1
+body-check	bo1 di1 cek1
+body-massage	bo1 di1 mat6 saa1 ci4
+boo-jark	bu4 zaak1
+book	buk1
+boot	but1
+boutique	pou6 tit1
+boy	boi1
+bra	baa1
+briefing	bi1 fing2
+budget	bat1 zik4
+buffet	bou6 fei1
+buffet	pou6 fei1
+bug	bak1
+bully	bu1 li4
+buy	baai1
+byte	bai1
+cafe	kat6 fei1
+cake	kik1
+call	ko1
+cam	kem1
+camp	kem1
+camtrulia	gaam6 cou1 li4 jaa4
+camtrulia	kam6 cou1 li4 jaa4
+cancer	ken1 saa2
+cancer	ken1 saa4
+cap	kep1
+cap	kep6
+care	ke1 aa4
+carry	ke1 wi4
+case	kei1 si2
+cash	ke1 syu4
+casual	ke1 sou4
+catalog	ket1 taa4 lok4
+catalogue	ket1 taa4 lok4
+cc	si1 si1
+cert	soet1
+cha-cha	caa1 caa4
+challenge	cek1 lin6 zi6
+charge	caa1 zi6
+cheap	cip1
+check	cek1
+check-in	cek1 jin1
+check-out	cek1 au1
+chem	kem1
+chihuahua	ci6 waa1 waa4
+chihuahua	zi6 waa1 waa4
+ching	cing1
+ching	si1 hing1
+chok	cok3
+chok-cheat	cok3 cit1
+chord	kot1
+chur	coe2
+cik-caat	cik4 caak4
+cik-caat	cik4 caat4
+civil	si1 fou2
+claim	kem1
+click	kik1
+close	kat6 lou4 si4
+club	kap1
+cm	si1 em1
+code	kuk1
+com	kam1
+command	kam6 maan1
+comment	kam1 men4
+comment	kom1 men4
+common-sense	kam1 man1
+con	kon1
+cons	kon1 si2
+contact	kon1 tek4
+cool	ku1
+coolie	gu1 lei1
+cop	kop1
+cosplay	co1 si4 pat6 lai1
+counter	kaan1 taa2
+coupon	kiu1 pon4
+course	ko1 si4
+cream	kim1
+cue	kiu1
+cult	kau1
+cushion	ku1 seon2
+cut	kat1
+cute	kiu1
+cute-cute	kiu1 kiu1
+cutie	kiu1 ti2
+cutter	kat1 taa2
+cyber	saai1 baa4
+darling	daa1 ling2
+data	dei1 taa4
+day-one	dei1 wan1
+defer	de6 foe1
+del	di6
+dem	dem1
+demo	dem1 mou2
+der	de1
+di-di-de-de	di4 di4 de4 de4
+disco	dit1 si4 kou4
+do	du1
+down	daan1
+down	daang1
+download	daan1 lou1
+download	daang1 lou1
+dub	dap1
+dud	dat1
+dum	dam2
+dum	dam3
+dum	dam6
+dump	dam2
+dup	daap3
+dup	dap1
+dur	doe6
+e	e1
+e1	e1
+e4	e4
+econ	ji6 kon1
+em4	em4
+email	ji1 me1 lou4
+email	ji1 meu1
+emoji	i6 mo1 zi4
+emoji	i6 mou1 zi4
+emoji	ji6 mo1 zi4
+emoji	ji6 mou1 zi4
+engine	en1 zin2
+er	e1
+er	e4
+er	e6
+even	i1 fan4
+even	ji1 fan4
+ex	ik6 si4
+exact7ly	ik6 sek1 cat4 li4
+fail	feu1
+fake	fik1
+fang6	fang6
+fans	fen1 si2
+fax	fek1
+fax	fek1 si2
+fd	fen1
+fe	fe4
+fea	fe4
+feel	fiu1
+fet	fet6
+fi-li-fe-le	fi4 li1 fe4 le4
+fi-li-fe-le	fi4 li1 fek4 lek4
+figure	fik1 gaa4
+file	faai1 lou2
+firm	fem1
+fit	fit1
+flick	fik6
+follow	fo1 lou4
+for	fo6
+form	fom1
+foul	fau1
+free-size	fi1 saai1 si2
+friend	fen1
+fu	fu3
+function	fan1 seon4
+function	fang1 seon4
+fuse	fiu1 si2
+gag	gek1
+game	gem1
+gap	gap1
+gap	gep1
+gas	ge1 si2
+ge	ge3
+gel	zeu1
+geog	zok1 gaa2
+get	get1
+gip	gip1
+google	gu1 gou4
+gram	gwem1
+grant-loan	gwaan1 lung1
+grant-loan	gwaang1 lung1
+group	gwup1
+gup	gap6
+gur	goe4
+hack	hek1
+hacker	hek1 kaa2
+hae	he3
+hall	ho1
+ham	hem1
+happy	hep1 pi2
+harddisk	haat1 di1
+hater	hei1 taa4
+hea	he3
+hee-hee-hur-hur	hi4 hi1 hoe4 hoe4
+hehe	hi1 hi1
+hello	haa1 lou2
+hello	haa1 lou3
+hi	haai1
+hi-fi	haai1 faai1
+high	haai1
+high-tea	haai1 ti1
+high-tech	haai1 tek1
+highlight	haai1 lai1
+hihi	haai1 haai1
+hints	hin1 si2
+hit	hit1
+hoodie	hu1 di2
+house	hau1 si2
+hur	hoe4
+hurt	hoet1
+ichiban	it1 ci1 baan1
+ichiban	ji1 ci1 baang1
+ichiban	jit1 ci1 baan1
+ichiban	jit1 zi1 baan1
+icon	aai1 kon2
+idea	aai6 di1 aa4
+idea	aai6 di1 jaa4
+in	in1
+in	jin1
+in-charge	in1 caa1 zi6
+intern	in1 toeng2
+intern	jin1 toeng2
+jacket	zek1 ket6
+jacket	zek1 kit6
+jam	zem1
+jar	zaa1
+jer	zoe1
+jer-jer	zoe1 zoe1
+jer-jer	zoe4 zoe1
+jetso	zek1 sou4
+jip	zip4
+join	zoi1
+join	zong1
+joker	zuk1 kaa2
+joule	zu1
+jupas	zu1 pat6 si4
+kai	kaai1
+ke	ke1
+keep	kip1
+kel-lel	keu4 leu1
+kem	kem4
+kem5	kem5
+keng	keng4
+killer	kiu1 laa2
+killer	kiu1 laa4
+kilo	kei1 lou2
+kilo	ki1 lou2
+king	king1
+lab	lep1
+label	lei1 bou2
+laser	lei1 saa2
+last-day	laa6 sat6 dei1
+latte	laat6 tei1
+latte	lat6 tei1
+le	le1
+legging	lik1 ging4
+lego	le1 gou4
+lego	lek1 gou4
+lem	lem2
+les	le1 si4
+level	le1 fou2
+license	laai1 san2
+likey	lai1 ki2
+lim	lim1
+limit	lim1 mit4
+lin	lin1
+lin	nin1
+live	laai1
+load	lou1
+long-d	long1 di1
+look	luk1
+louvre	lu1 faa2
+lu	lu3
+lump-sum	lam1 sam1
+lun	leon1
+lunch	lan1 cyu2
+lunch	lan1 cyu4
+lur	loe2
+m	mit1
+man	men1
+mark	maak1
+maths	met1 si2
+meet	mit1
+memo	mi1 mou2
+menu	men1 niu2
+mind	maai1
+miss	mi1 si4
+ml	miu1
+mocha	mok1 kaa4
+mock	mok1
+model	mo1 dou4
+modem	mou1 dem4
+molamola	mou1 laa1 mou1 laa4
+molamola	mou1 laa3 mou1 laa3
+mon	mon1
+mood	mut1
+mouse	maau1 si2
+mouse	mau1 si2
+mp3	em1 pi1 fi1
+mp3	em1 pi1 saam1
+mum-mum	mam1 mam1
+navy	nei1 fi2
+ngek-ngek	ngek1 ngek1
+niu	niu3
+notebook	luk1 buk1
+notebook	nuk1 buk1
+ocamp	ou1 kem1
+oe	oe1
+oet4	oek4
+oet4	oet4
+oet4	oet6
+offer	o1 faa4
+on9	ngong6 gau1
+on99	ngong6 gau1 gau1
+onlun9	ngong6 lan2 gau1
+open	ou1 pan4
+oppa	ok6 baa1
+out	au1
+outdate	au1 dei1
+outday	au1 dei1
+outlet	au1 let4
+over	ou1 faa4
+pack	pek1
+pad	pet1
+pair	pe1
+pan	pen1
+pancake	pen1 kik1
+pantry	pen1 cyu4
+paper	pei1 paa4
+part	paat1
+part-time	paat1 taai1
+parti	paat6 tit1
+partner	paat1 naa4
+party	paa1 ti4
+party	paat1 ti4
+pass	paa1 si2
+pass	paa1 si4
+passport	paa1 si4 pot1
+passport	paa3 si6 but3
+pat	pet6
+pat-pat	pet1 pet1
+patient	pei1 seon4
+pea	pe5
+pedal	pe1 dou4
+pedal	pet1 dou4
+percent	pat6 sen1
+percent	poe6 sen1
+pet-pet	pet1 pet1
+physics	fi1 sik4
+pi	paai1
+pick-up	pik1 ap1
+pink	ping1
+pizza	pi1 saa2
+pizza	pi1 saa4
+plan	pat6 len1
+pm	pi1 em1
+po	pou1
+point	pon1
+pok	pok1
+polo	pou1 lou2
+pop	pok1
+port	pot1
+post	pou1
+post	pou1 si2
+prefect	pi1 fek4
+prefect	pi1 fet4
+prefer	pe6 foe1
+prefer	pi6 foe1
+present	pi6 sen1
+print	pin1
+printer	pin1 taa2
+professor	pou1 fe1 saa2
+professor	pou1 fe1 saa4
+professor	pou1 fet1 saa2
+professor	pou1 fet1 saa4
+program	pou1 gwem4
+project	po1 zek4
+projector	pou6 zek1 taa2
+projector	pou6 zek1 taa4
+promo	pou6 mou1
+proposal	pou6 pou1 sou4
+psycho	saai6 ko1
+ptbf	pi1 ti1 bi1 e1 fu4
+ptgf	pi1 ti1 zi1 e1 fu4
+pub	pap1
+pure	piu1
+pure	piu1 aa4
+puzzle	pat1 sou4
+quali	ko1 li2
+quali	kwo1 li2
+quit	kwit1
+quiz	kwi1 zi4
+quota	kou1 taa2
+refer	wi6 foe1
+round	waan1
+router	waau1 taa2
+sa	saa4
+saak	saak3
+sales	seu1 si2
+sauna	son1 naa4
+save	sei1 fu4
+saxophone	sik1 si6 fung1
+saxphone	sik1 fung1
+scan	saa4 ken1
+scanner	saa4 ken1 naa2
+science	saai1 jan4 si4
+search	soe1 cyu4
+seed	sit1
+sell	seu1
+sem	sem6
+send	sen1
+sense	sen1 si2
+ser	soe1
+server	soe1 faa2
+set	set1
+share	soe1 aa4
+sharp	saap1
+shift	si1 fu4
+short	sot1
+shot	sot1
+show	sou1
+show-hand	sou1 hen1
+show-quali	sou1 ko1 li2
+show-quali	sou1 kwo1 li2
+si-li-sir-lur	si4 li1 soe4 loe4
+single	sing1 gou4
+sir	soe4
+sis	e1 si4 aai1 e1 si4
+sit	sit1
+sit-up	sit1 ap1
+site	sai1
+size	saai1 si2
+small-potato	si6 mo1 pou6 tei1 tou4
+snooker	si6 luk1 gaa2
+so	sou4
+so9sad	sou1 gau1 set1
+soci	sou6 si6
+social	sou1 sou4
+solo	sou1 lou4
+sor	so1
+sorli	so1 li4
+sorry	so1 li4
+sorry	so1 wi4
+sosad	sou1 set1
+source	so1 si2
+souven	sou1 fan2
+spa	sa4 baa1
+stat	sa4 dei1
+stupid	sa4 diu1 bat4
+stupid	si6 diu1 bat4
+style	sa4 daai1 jou4
+suppose	sap6 pou1 si4
+sure	su1 aa4
+surprise	sat6 paai1 si4
+survey	soe1 fei4
+survey	soe6 fei1
+sweet	si6 wit1
+syllabus	si1 li4 baa4
+tab	tep1
+tablet	tep1 lat4
+tablet	tep1 let4
+tag	tek1
+take	tik1
+talk	tok1
+target	taa1 get4
+taste	tei1 si2
+tea	ti1
+team	tim1
+tee	ti1
+temp	tem6
+term	tem1
+test	tet1
+thank-you	fen1 kiu4
+tissue	ti1 su4
+title	taai1 tou4
+title	tai1 tou4
+toffee	to1 fei2
+toffee	to1 fei4
+toilet	to1 let4
+toilet	toi1 let4
+top	top1
+total	tou1 tou4
+touch-wood	taa1 cyu6 wut1
+troll	cou1
+tune	tun1
+turn	toeng1
+tutor	tiu1 taa2
+tutor	tiu1 taa4
+tutor	tiu6 to1
+un	an3
+uncl	an1 kou4
+uncle	ang1 kou4
+under	an1 daa2
+under	an1 daa4
+up	ap1
+update	ap1 dei1
+upload	ap1 lou1
+van	wen1
+vaseline	faa1 si6 ling2
+vocab	fou6 kep1
+vodka	wuk1 kaa2
+volt	wuk1
+wang	wang1
+wasabi	waa6 saa1 bi4
+wasabi	waat6 saa1 bi4
+watt	wok1
+weng	weng6
+wet	wet1
+wifi	waai1 faai1
+win-place	win1 pei1
+wing	wing1
+work	woek1
+wou	wou1
+wouwou	wou1 wou1
+wowo	wou1 wou1
+yap	jaap3
+yap	jaap6
+yeah	je1
+yo	jou1
+young	jaang1
+zip	zip4
+zoom	sum1
