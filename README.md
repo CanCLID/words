@@ -12,4 +12,11 @@
     - `/jyutping/english.txt` 來源 `jyut6ping3.letter.dict.yaml` 入面嘅純英語詞彙，全部都冇漢字
     - `/jyutping/mixed.txt` 來源 `jyut6ping3.letter.dict.yaml` 入面同時含有漢字同英語字母嘅詞條
 - `/no_jyutping` 
-    - 
+    - 入面幾個文件都係按照字數或者命名規則分出嚟嘅詞條。
+
+
+## 20211125_pre_annotation
+
+而家要將 `rime-cantonese` 碼表入面嘅有效詞彙都分出嚟，作為碼表上游詞表。碼表入面嘅 `.lettered.dict.yaml` 同埋 `jyut6ping3.maps.dict.yaml` 都係非常用詞條，所以 `source` 入面放凈係放咗 `.dict.yaml` 同埋 `phrase.dict.yaml` 兩個文件。
+
+呢兩個文件唯一區別係一個有粵拼另一個冇。首先第一步就係將呢兩個文件入面嘅詞條合併起身，成為 `source.tsv`。
