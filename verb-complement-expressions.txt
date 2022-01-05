@@ -1,0 +1,19 @@
+# Base form: 睇透
+# duc:  睇得透
+# m:    睇唔透
+# mlan: 睇唔撚透
+# gikm: 睇極唔透
+# saai: 睇透晒
+# mei:  睇透未
+# laa:  睇透喇
+做到	zou6 dou2	duc,m,mlan,mei,laa
+做完	zou6 jyun4	duc,m,mlan,gikm,saai,mei,laa
+分到	fan1 dou2	duc,m,mlan,mei,laa
+分清	fan1 cing1	duc,m,mlan,mei,laa
+睇到	taai2 dou2	duc,m,mlan,saai,mei,laa
+睇清	taai2 cing1	duc,m,mlan,mei,laa
+睇透	taai2 tau3	duc,m,mlan,gikm,saai,mei,laa
+食到	sik6 dou2	duc,m,mlan,mei,laa
+
+閂埋	saan1 maai4	m,saai,mei,laa
+閂實	saan1 sat6	m,saai,mei,laa
