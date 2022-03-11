@@ -373,6 +373,7 @@ word,jyutping
 握手言和,aak1 sau2 jin4 wo4
 厄運,aak1 wan6
 扼制,aak1 zai3
+握住,aak1 zyu6
 啱用,aam1 jung6
 啱使,aam1 sai2
 啱身,aam1 san1
@@ -597,7 +598,6 @@ word,jyutping
 握手,ak1 sau2
 渥太華,ak1 taai3 waa4
 厄運,ak1 wan6
-握住,aak1 zyu6
 鵪鶉,am1 ceon1
 鵪鶉蛋,am1 ceon1 daan2
 諳練,am1 lin6
@@ -26507,7 +26507,6 @@ word,jyutping
 金蟬脫殼,gam1 sim4 tyut3 hok3
 金星,gam1 sing1
 今宵,gam1 siu1
-咁上下,gam3 soeng6 haa2
 甘肅,gam1 suk1
 甘肅柳鶯,gam1 suk1 lau5 ang1
 金屬,gam1 suk6
@@ -26788,7 +26787,6 @@ word,jyutping
 噉仲得,gam2 zung6 dak1
 噉仲得掂,gam2 zung6 dak1 dim6
 噉仲唔止,gam2 zung6 m4 zi2
-咁啱線,gam3 ngaam1 sin3
 咁把炮,gam3 baa3 paau3
 咁扮嘢,gam3 baan6 je5
 禁閉室,gam3 bai3 sat1
@@ -26916,6 +26914,7 @@ word,jyutping
 咁啱得咁橋,gam3 ngaam1 dak1 gam3 kiu2
 咁啱得咁蹺,gam3 ngaam1 dak1 gam3 kiu2
 咁啱嘅嘢,gam3 ngaam1 ge2 je5
+咁啱線,gam3 ngaam1 sin3
 咁內,gam3 noi6
 咁耐㗎,gam3 noi6 gaa3
 咁耐以嚟,gam3 noi6 ji5 lai4
@@ -27056,7 +27055,6 @@ word,jyutping
 跟進,gan1 zeon3
 根治,gan1 zi6
 跟着,gan1 zoek6
-跟住,gan1 zyu6
 根狀莖,gan1 zong6 ging3
 跟足,gan1 zuk1
 跟蹤,gan1 zung1
@@ -34740,8 +34738,6 @@ word,jyutping
 係都唔定,hai6 dou1 m4 ding2
 係都唔聽,hai6 dou1 m4 teng1
 係噉,hai6 gam2
-係咁大,hai6 gam3 daai6
-係咁多,hai6 gam3 do1
 係噉嘎啦,hai6 gam2 ga4 la1
 係噉㗎啦,hai6 gam2 gaa3 laa1
 係噉㗎喇,hai6 gam2 gaa3 laa3
@@ -34753,6 +34749,8 @@ word,jyutping
 係噉先,hai6 gam2 sin1
 係噉話,hai6 gam2 waa6
 係咁大,hai6 gam3 daai2
+係咁大,hai6 gam3 daai6
+係咁多,hai6 gam3 do1
 係啩,hai6 gwaa3
 係人都,hai6 jan4 dou1
 係人都唔,hai6 jan4 dou1 m4
@@ -43009,16 +43007,11 @@ word,jyutping
 有名,jau5 ming4
 有名亡實,jau5 ming4 mong4 sat6
 有望,jau5 mong6
-有冇車,jau5 mou5 ce1
-有冇貨,jau5 mou5 fo3
-有冇可能,jau5 mou5 ho2 nang4
 有毛有翼,jau5 mou4 jau5 jik6
-有冇問題,jau5 mou5 man6 tai4
-有冇收到,jau5 mou5 sau1 dou2
 有無相通,jau5 mou4 soeng1 tung1
-有無上,jau5 mou5 soeng5
 有冇,jau5 mou5
 有冇啊,jau5 mou5 aa3
+有冇車,jau5 mou5 ce1
 有冇錯,jau5 mou5 co3
 有冇帶袋,jau5 mou5 daai3 doi2
 有冇得,jau5 mou5 dak1
@@ -43026,15 +43019,20 @@ word,jyutping
 有冇得溼,jau5 mou5 dak1 sap1
 有冇多士,jau5 mou5 do1 si2
 有冇火呀,jau5 mou5 fo2 aa3
+有冇貨,jau5 mou5 fo3
 有冇芥菜,jau5 mou5 gaai3 coi3
 有冇搞錯,jau5 mou5 gaau2 co3
 有冇攪錯,jau5 mou5 gaau2 co3
+有冇可能,jau5 mou5 ho2 nang4
 有冇人啊,jau5 mou5 jan4 aa3
 有冇人知,jau5 mou5 jan4 zi1
 有冇嘢食,jau5 mou5 je5 sik6
 有冇料到,jau5 mou5 liu2 dou3
+有冇問題,jau5 mou5 man6 tai4
 有冇你,jau5 mou5 nei5
+有冇收到,jau5 mou5 sau1 dou2
 有冇聲氣,jau5 mou5 seng1 hei3
+有無上,jau5 mou5 soeng5
 有目共睹,jau5 muk6 gung6 dou2
 有目共見,jau5 muk6 gung6 gin3
 有目共賞,jau5 muk6 gung6 soeng2
@@ -53131,6 +53129,7 @@ word,jyutping
 連接酶,lin4 zip3 mui4
 連接頭,lin4 zip3 tau4
 連坐,lin4 zo6
+連着,lin4 zoek6
 連載,lin4 zoi3
 連續,lin4 zuk6
 連續變調,lin4 zuk6 bin3 diu6
@@ -53142,7 +53141,6 @@ word,jyutping
 連珠砲,lin4 zyu1 paau3
 連珠炮發,lin4 zyu1 paau3 faat3
 連珠砲發,lin4 zyu1 paau3 faat3
-連着,lin4 zoek6
 連鑄,lin4 zyu3
 摙車,lin5 ce1
 攆出去,lin5 ceot1 heoi3
@@ -56366,7 +56364,6 @@ word,jyutping
 媽媽菜,maa4 maa1 coi3
 麻麻,maa4 maa2
 麻麻地,maa4 maa2 dei2
-麻麻地,maa4 maa2 dei2
 麻麻地啦,maa4 maa2 dei2 laa1
 麻麻啫,maa4 maa2 ze1
 嫲嫲,maa4 maa4
@@ -59376,8 +59373,8 @@ word,jyutping
 杳無音信,miu5 mou4 jam1 seon3
 杳無音訊,miu5 mou4 jam1 seon3
 渺無音信,miu5 mou4 jam1 seon3
-杳無人煙,miu5 mou4 jan4 jin1
-渺無人煙,miu5 mou4 jan4 jin1
+杳無人菸,miu5 mou4 jan4 jin1
+渺無人菸,miu5 mou4 jan4 jin1
 杳無人跡,miu5 mou4 jan4 zik1
 杳無信息,miu5 mou4 seon3 sik1
 杳無消息,miu5 mou4 siu1 sik1
@@ -60127,8 +60124,7 @@ word,jyutping
 無賴,mou4 laai2
 誣賴,mou4 laai6
 毛冷,mou4 laang1
-無厘頭尻,mou4 lei4 tau4 gau1
-冇嚟頭尻,mou5 lai4 tau4 gau1
+無嚟頭尻,mou4 lai4 tau4 gau1
 無漏罅,mou4 lau6 laa3
 冇厘傝𢶍,mou4 lei4 daap3 saap3
 冇釐傝𢶍,mou4 lei4 daap3 saap3
@@ -60136,12 +60132,10 @@ word,jyutping
 無厘頭,mou4 lei4 tau4
 無釐頭,mou4 lei4 tau4
 無厘頭尻,mou4 lei4 tau4 gau1
-無嚟頭尻,mou4 lai4 tau4 gau1
 無理,mou4 lei5
 蕪俚,mou4 lei5
 無理取鬧,mou4 lei5 ceoi2 naau6
 毛里裘斯,mou4 lei5 kau4 si1
-冇理我,mou5 lei5 ngo5
 無理數,mou4 lei5 sou3
 毛里塔尼亞,mou4 lei5 taap3 nei5 aa3
 毛利,mou4 lei6
@@ -60649,6 +60643,7 @@ word,jyutping
 冇嚟光彩,mou5 lai4 gwong1 coi2
 冇厘心機,mou5 lai4 sam1 gei1
 冇厘神氣,mou5 lai4 san4 hei3
+冇嚟頭尻,mou5 lai4 tau4 gau1
 冇厘正經,mou5 lai4 zing3 ging1
 冇嚟正經,mou5 lai4 zing3 ging1
 冇禮物,mou5 lai5 mat6
@@ -60670,13 +60665,13 @@ word,jyutping
 冇嚟神氣,mou5 lei4 san4 hei3
 冇釐神氣,mou5 lei4 san4 hei3
 冇離神氣,mou5 lei4 san4 hei3
-冇釐神氣,mou5 lei4 san4 hei3
 冇厘精神,mou5 lei4 zing1 san4
 冇釐正經,mou5 lei4 zing3 ging1
 冇理咁多,mou5 lei5 gam3 do1
 冇理由,mou5 lei5 jau4
 冇理由㗎,mou5 lei5 jau4 gaa3
 冇理由啩,mou5 lei5 jau4 gwaa3
+冇理我,mou5 lei5 ngo5
 冇雷公咁遠,mou5 leoi4 gung1 gam3 jyun5
 武力,mou5 lik6
 冇鍊用,mou5 lin2 jung6
@@ -64309,8 +64304,8 @@ word,jyutping
 訛謬,ngo4 mau6
 蛾眉皓齒,ngo4 mei4 hou6 ci2
 峨嵋鶲鶯,ngo4 mei4 jung1 ang1
-蛾眉月,ngo4 mei4 jyut6
 娥眉月,ngo4 mei4 jyut6
+蛾眉月,ngo4 mei4 jyut6
 峨眉柳鶯,ngo4 mei4 lau5 ang1
 蛾摩拉,ngo4 mo1 laai1
 鵝毛大雪,ngo4 mou4 daai6 syut3
@@ -64551,16 +64546,16 @@ word,jyutping
 我未食飽,ngo5 mei6 sik6 baau2
 我望一望,ngo5 mong6 jat1 mong6
 我冇吖,ngo5 mou5 aa1
-我冇車,ngo5 mou5 ce1
-我冇飲,ngo5 mou5 jam2
-我冇遮啊,ngo5 mou5 ze1 aa3
 我冇啊,ngo5 mou5 aa3
+我冇車,ngo5 mou5 ce1
 我冇錢,ngo5 mou5 cin2
 我冇帶遮,ngo5 mou5 daai3 ze1
+我冇飲,ngo5 mou5 jam2
 我冇嘢,ngo5 mou5 je5
 我冇嘢啊,ngo5 mou5 je5 aa3
 我冇留意,ngo5 mou5 lau4 ji3
 我冇仔,ngo5 mou5 zai2
+我冇遮啊,ngo5 mou5 ze1 aa3
 我們,ngo5 mun4
 我拿晒,ngo5 naa4 saai3
 我呢度有,ngo5 nei1 dou6 jau5
@@ -73086,7 +73081,6 @@ word,jyutping
 死文字,sei2 man4 zi6
 死物,sei2 mat6
 死命噉,sei2 meng6 gam2
-死命噉,sei2 meng6 gam2
 死亡,sei2 mong4
 死亡證,sei2 mong4 zing3
 死亡證書,sei2 mong4 zing3 syu1
@@ -73510,7 +73504,6 @@ word,jyutping
 成日嘞,seng4 jat6 laak3
 城闕,seng4 kyut3
 成碌木噉,seng4 luk1 muk6 gam2
-成碌木噉,seng4 luk1 muk6 gam2
 承你貴言,seng4 nei5 gwai3 jin4
 成棚人,seng4 paang4 jan4
 成世,seng4 sai3
@@ -73586,7 +73579,6 @@ word,jyutping
 衰收尾,seoi1 sau1 mei5
 雖死猶生,seoi1 sei2 jau4 sang1
 雖死猶榮,seoi1 sei2 jau4 wing4
-衰衰地,seoi1 seoi1 dei2
 衰衰地,seoi1 seoi1 dei2
 衰衰噉,seoi1 seoi1 gam2
 衰衰累累,seoi1 seoi1 leoi4 leoi4
@@ -78084,12 +78076,12 @@ word,jyutping
 想壞腦,soeng2 waai6 nou5
 想真些,soeng2 zan1 se1
 相紙,soeng2 zi2
+想着你,soeng2 zoek6 nei5
 想像,soeng2 zoeng6
 想像力,soeng2 zoeng6 lik6
 想作嘔,soeng2 zok3 au2
 想做返次,soeng2 zou6 faan1 ci3
 想做咩,soeng2 zou6 me1
-想着你,soeng2 zoek6 nei5
 相夫教子,soeng3 fu1 gaau3 zi2
 相機行事,soeng3 gei1 hang4 si6
 相機而動,soeng3 gei1 ji4 dung6
@@ -79470,8 +79462,8 @@ word,jyutping
 篆刻,syun3 haak1
 算係吖,syun3 hai6 a1
 算係點,syun3 hai6 dim2
-算係咁,syun3 hai6 gam3
 算係噉,syun3 hai6 gam2
+算係咁,syun3 hai6 gam3
 蒜香骨,syun3 hoeng1 gwat1
 算好啦,syun3 hou2 la1
 蒜茸鉗,syun3 jung4 kim4
@@ -87659,8 +87651,8 @@ word,jyutping
 找碴,zaau2 zaa1
 找節目,zaau2 zit3 muk6
 找咗數,zaau2 zo2 sou3
-找續,zaau2 zuk6
 抓着,zaau2 zoek6
+找續,zaau2 zuk6
 罩衣,zaau3 ji1
 罩籬,zaau3 lei1
 笊籬,zaau3 lei4
@@ -88738,10 +88730,10 @@ word,jyutping
 酒缸,zau2 gong1
 走鋼絲,zau2 gong3 si1
 酒麴,zau2 guk1
-走鬼咗,zau2 gwai2 zo2
 走鬼,zau2 gwai2
 酒鬼,zau2 gwai2
 走鬼檔,zau2 gwai2 dong3
+走鬼咗,zau2 gwai2 zo2
 酒櫃,zau2 gwai6
 走光,zau2 gwong1
 走下坡,zau2 haa6 bo1
@@ -92967,7 +92959,6 @@ word,jyutping
 着褸,zoek3 lau1
 酌量,zoek3 loeng2
 爵祿,zoek3 luk6
-着龍袍唔似太子,zoek6 lung4 pou4 m4 ci5 taai3 zi2
 着埋一條褲,zoek3 maai4 jat1 tiu4 fu3
 雀盲眼,zoek3 maang4 ngaan5
 着咩衫,zoek3 me1 saam1
@@ -93008,6 +92999,7 @@ word,jyutping
 着涼,zoek6 loeng4
 着落,zoek6 lok6
 着陸,zoek6 luk6
+着龍袍唔似太子,zoek6 lung4 pou4 m4 ci5 taai3 zi2
 着唔落,zoek6 m4 lok6
 着迷,zoek6 mai4
 着瓦靴,zoek6 ngaa5 hoe1
@@ -95958,4 +95950,3 @@ word,jyutping
 絕招,zyut6 ziu1
 絕章,zyut6 zoeng1
 絕種,zyut6 zung2
-嘖嘖稱奇,嘖嘖 cing1 kei4
